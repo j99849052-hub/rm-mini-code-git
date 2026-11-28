@@ -1,0 +1,10 @@
+# Keil build output and local IDE settings
+/MDK-ARM/rm mini uart test/
+*.uvguix.*
+*.uvgui.*
+*.uvoptx
+*.axf
+*.hex
+*.o
+*.build_log.htm
+.mxproject
